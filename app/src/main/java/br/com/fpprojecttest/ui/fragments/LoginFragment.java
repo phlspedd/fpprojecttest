@@ -110,7 +110,7 @@ public class LoginFragment extends Fragment implements View.OnClickListener, Log
         UserListingActivity.startActivity(getActivity(),
                 Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
     }
-
+//
     @Override
     public void onLoginFailure(String message) {
         mProgressDialog.dismiss();
