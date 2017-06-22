@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">fpprojecttest</string>
+    <string name="app_name">TESTE</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="register">Registrar</string>
+    <string name="user_successfully_added">Usuário adicionado com sucesso</string>
+    <string name="user_unable_to_add">Não foi possível adicionar este usuário</string>
+    <string name="loading">Carregando</string>
+    <string name="please_wait">Aguarde...</string>
+    <string name="adding_user_to_db">Adicionando usuário em nossa base</string>
+    <string name="action_logout">Sair</string>
+    <string name="logout">Sair</string>
+    <string name="are_you_sure">Tem certeza ?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="login">Entrar</string>
+    <string name="login_register">Cadastrar-se</string>
+    <string name="logged_in_successfully">Conectado</string>
+    <string name="registration_successful">Registro bem sucedido!</string>
+    <string name="registration_failed">Registro falhou!</string>
+
+
+
 </resources>
